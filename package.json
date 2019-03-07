@@ -1,0 +1,19 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "scraping test automation for test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "test",
+    "scraping",
+    "automation"
+  ],
+  "author": "imran",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  }
+}
