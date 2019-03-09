@@ -4,7 +4,7 @@
   "description": "scraping test automation for test automation",
   "main": "index.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node visit-a-website.js"
   },
   "keywords": [
     "test",
